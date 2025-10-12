@@ -1,0 +1,15 @@
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\bin\Debug\net9.0\MyCSharpRepository2.exe
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\bin\Debug\net9.0\MyCSharpRepository2.deps.json
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\bin\Debug\net9.0\MyCSharpRepository2.runtimeconfig.json
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\bin\Debug\net9.0\MyCSharpRepository2.dll
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\bin\Debug\net9.0\MyCSharpRepository2.pdb
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\obj\Debug\net9.0\MyCSharpRepository2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\obj\Debug\net9.0\MyCSharpRepository2.AssemblyInfoInputs.cache
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\obj\Debug\net9.0\MyCSharpRepository2.AssemblyInfo.cs
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\obj\Debug\net9.0\MyCSharpRepository2.csproj.CoreCompileInputs.cache
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\obj\Debug\net9.0\MyCSharpRepository2.sourcelink.json
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\obj\Debug\net9.0\MyCSharpRepository2.dll
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\obj\Debug\net9.0\refint\MyCSharpRepository2.dll
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\obj\Debug\net9.0\MyCSharpRepository2.pdb
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\obj\Debug\net9.0\MyCSharpRepository2.genruntimeconfig.cache
+C:\Users\joely\OneDrive\Documents\GitHub\MyCSharpRepository2\obj\Debug\net9.0\ref\MyCSharpRepository2.dll
