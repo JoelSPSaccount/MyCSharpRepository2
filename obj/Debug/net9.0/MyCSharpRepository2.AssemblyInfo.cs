@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyCSharpRepository2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beeab49778dd3e39a4e5941cd24d835678f72ece")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88025d7e7767e65c182afa9daba69a89ad444d91")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyCSharpRepository2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyCSharpRepository2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
